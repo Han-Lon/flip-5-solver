@@ -6,7 +6,7 @@ This is a logic puzzle in which you have a square grid of 3×3 cells. Each cell 
 
 The problem is to find the minimum number of cell clicks to transform a grid of all white cells into the input grid (which is always possible). You cannot rotate the grid
 
-README.png
+![README.png should display here](https://github.com/Han-Lon/flip-5-solver/blob/main/README.png?raw=true)
 
 Input Format
 
